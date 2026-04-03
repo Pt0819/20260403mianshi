@@ -4,7 +4,8 @@
       "Bash(go version:*)",
       "Bash(go mod:*)",
       "Bash(go build:*)",
-      "Bash(./mdnsscan.exe --demo)"
+      "Bash(./mdnsscan.exe --demo)",
+      "Bash(go test:*)"
     ]
   }
 }
